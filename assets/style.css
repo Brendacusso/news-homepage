@@ -36,6 +36,13 @@ header {
         align-items: center;
     }
 
+    header {
+        width: 100%;
+        height: auto;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+
     .menu {
         width: 100%;
         height: auto;
@@ -347,6 +354,13 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    header {
+        width: 100%;
+        height: auto;
+        margin: 0px 0px;
+        padding: 0px 0px;
     }
 
     .menu {
