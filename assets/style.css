@@ -29,6 +29,13 @@ p {
         align-items: center;
     }
 
+    header {
+        width: 100%;
+        height: auto;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+
     .menu {
         width: 100%;
         height: auto;
@@ -99,10 +106,6 @@ p {
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-    }
-
-    .web-mobile {
-        display: none;
     }
 
     .section-one-a img {
@@ -346,6 +349,13 @@ p {
         align-items: center;
     }
 
+    header {
+        width: 100%;
+        height: auto;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+
     .menu {
         width: 100%;
         height: auto;
@@ -414,10 +424,6 @@ p {
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-    }
-
-    .web-desktop {
-        display: none;
     }
 
     .section-one-a img {
